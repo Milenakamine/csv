@@ -1,0 +1,13 @@
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Aula27_28_29_30\csv\bin\Debug\netcoreapp3.1\csv.exe
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Aula27_28_29_30\csv\bin\Debug\netcoreapp3.1\csv.deps.json
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Aula27_28_29_30\csv\bin\Debug\netcoreapp3.1\csv.runtimeconfig.json
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Aula27_28_29_30\csv\bin\Debug\netcoreapp3.1\csv.runtimeconfig.dev.json
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Aula27_28_29_30\csv\bin\Debug\netcoreapp3.1\csv.dll
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Aula27_28_29_30\csv\bin\Debug\netcoreapp3.1\csv.pdb
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Aula27_28_29_30\csv\obj\Debug\netcoreapp3.1\csv.csprojAssemblyReference.cache
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Aula27_28_29_30\csv\obj\Debug\netcoreapp3.1\csv.csproj.CoreCompileInputs.cache
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Aula27_28_29_30\csv\obj\Debug\netcoreapp3.1\csv.AssemblyInfoInputs.cache
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Aula27_28_29_30\csv\obj\Debug\netcoreapp3.1\csv.AssemblyInfo.cs
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Aula27_28_29_30\csv\obj\Debug\netcoreapp3.1\csv.dll
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Aula27_28_29_30\csv\obj\Debug\netcoreapp3.1\csv.pdb
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Aula27_28_29_30\csv\obj\Debug\netcoreapp3.1\csv.genruntimeconfig.cache
