@@ -9,8 +9,8 @@ namespace csv
         {
             Produto p1 = new Produto();
             p1.Codigo= 1;
-            p1.Nome= "Motorola";
-            p1.Preco= 4545454f;
+            p1.Nome= "Xiaomi";
+            p1.Preco= 4555f;
 
             p1.Cadastrar(p1);
 
