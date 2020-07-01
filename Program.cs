@@ -7,14 +7,14 @@ namespace csv
     {
         static void Main(string[] args)
         {
-            Produto p1 = new Produto();
-            p1.Codigo= 1;
-            p1.Nome= "Xiaomi";
-            p1.Preco= 4555f;
+            Produto p2 = new Produto();
+            p2.Codigo= 2;
+            p2.Nome= "Xiaomi";
+            p2.Preco= 4555f;
+            // p2.Cadastrar(p2);
+            p2.Remover("Motorola");
 
-            p1.Cadastrar(p1);
-
-            List<Produto> lista = p1.Ler();
+            List<Produto> lista = p2.Ler();
 
             foreach(Produto item in lista){
 
