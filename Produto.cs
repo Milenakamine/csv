@@ -4,7 +4,8 @@ using System.IO;
 using System.Linq;
 
 namespace csv {
-    public class Produto {
+    public class Produto : IProduto
+    {
         //variavel
 
         public int Codigo { get; set; }
